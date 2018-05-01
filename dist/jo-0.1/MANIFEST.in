@@ -1,0 +1,2 @@
+include jo/narrative.txt
+include jo/haarcascade_frontalface_alt.xml
